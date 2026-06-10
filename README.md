@@ -2,7 +2,6 @@
 📌 Overview
 
 The Food Price Forecasting & Surge Prediction System is a full-stack web application that predicts future agricultural commodity prices using the ARIMA time-series forecasting model.
-
 The system analyzes historical market price data and provides short-term price forecasts, trend analysis, surge detection, and smart buying recommendations to help users make informed decisions.
 
 🚀 Features
